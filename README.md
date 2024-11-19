@@ -39,6 +39,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
+- JavaScript
 - React
 - Redux
 
